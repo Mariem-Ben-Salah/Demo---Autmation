@@ -29,7 +29,7 @@ To use the automation process, you need to set up the following:
 4. Run those commands for the _requirement.txt_ `pip3 install --upgrade -r requirements.txt --target python/lib/python3.8/site-packages/` and `zip -r -9 dependencies.zip python`
 5. Add _dependencies.zip_ as a lambda layer
 6. Deploy the Lambda function to your AWS account.
-7. Check the # TO DO
+7. Check the \# TO DO
 8. Add an _API Gateway_ as a trigger to your Lambda.
 9. Create your Bot/App on https://api.slack.com/apps 
 10. Add the required bot and user scopes (channels:read, groups:read, im:read, mpim:read, users:read, users:read.email)
@@ -38,8 +38,11 @@ To use the automation process, you need to set up the following:
 13. Set up a Slash Command to trigger the Lambda function when wanted.
 
 After setting up, you can run the automation process with the command: <span style="color:red">/demo DD.MM HH:SS</span>
+
 For Example : 
+
 <span style="color:red">/demo 24.4 17:35 :</span> Plan the demo for 24th April At 17:35
+
 <span style="color:red">/demo 6.4 9 :</span> Plan the demo for 6th April at 9 am
 
 * The MM field is mandatory. The default value is 00
