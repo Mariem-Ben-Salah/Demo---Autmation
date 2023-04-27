@@ -7,7 +7,7 @@ This repository contains a Python implementation of an automation process to cre
 - `lambda_function.py`: The Lambda function that runs the automation process.
 - `library.py`: A library containing helper functions for the automation process.
 
-📝 ## Requirements
+## 📝 Requirements
 The following packages are required to run the automation process:
 
 - google-auth
@@ -17,7 +17,7 @@ The following packages are required to run the automation process:
 - pytz
 You also need to have a Google Cloud Platform account and enable the Google Slides and Google Calendar APIs.
 
-🛠️  ## Usage
+## 🛠️ Usage
 To use the automation process, you need to set up the following:
 1. Clone this repository.
 2. Set up a Google Cloud Platform project and enable the Google Slides and Google Calendar APIs.
@@ -28,7 +28,7 @@ To use the automation process, you need to set up the following:
 
 After setting up, you can run the automation process with the command:
 
-📑 ## Files
+## 📑 Files
 - lambda_function.py: the main script that runs the automation process.
 - library.py: contains helper functions used in the automation process.
 - create_meeting.py: contains functions to create a Google Meet meeting.
@@ -36,6 +36,6 @@ After setting up, you can run the automation process with the command:
 - credentials.json: Google API credentials file.
 - README.md: this file.
 
-👤 Author
+## 👤 Author
 
 - Mariem Ben Salah 
