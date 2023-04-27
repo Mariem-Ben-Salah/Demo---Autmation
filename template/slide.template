@@ -1,0 +1,7 @@
+{
+    "createSlide": {
+        "objectId": "${pageId}",
+        "insertionIndex": ${insertionIndex}
+    }
+
+}

@@ -1,0 +1,7 @@
+{
+    "insertText": {
+        "objectId": "$element_id",
+        "insertionIndex": $insertionIndex,
+        "text": "$text"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "createShape": {
+        "objectId": "${textboxId}",
+        "shapeType": "TEXT_BOX",
+        "elementProperties": {
+            "pageObjectId": "${pageId}",
+            "size": {
+                "width": {
+                    "magnitude": 680,
+                    "unit": "PT"
+                },
+                "height": {
+                    "magnitude": 390,
+                    "unit": "PT"
+                }
+            },
+            "transform": {
+                "scaleX": 1,
+                "scaleY": 1,
+                "translateX": 20,
+                "translateY": 10,
+                "unit": "PT"
+            }
+        }
+    }
+}
