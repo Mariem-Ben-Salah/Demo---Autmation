@@ -33,9 +33,10 @@ To use the automation process, you need to set up the following:
 8. Add an _API Gateway_ as a trigger to your Lambda.
 9. Set up a Slash Command to trigger the Lambda function when wanted.
 
-After setting up, you can run the automation process with the command: `#0B49D6` /demo DD.MM HH:SS
+After setting up, you can run the automation process with the command: <h6 style="color:blue;">/demo DD.MM HH:SS</h6>
 For Example : 
-`#0B49D6` /demo 24.4 17:35 : Plan the demo for 24th April At 17:35 OR `#0B49D6` /demo 6.4 9 : Plan the demo for 6th April at 9 am
+* <h6 style="color:blue;">/demo 24.4 17:35</h6> : Plan the demo for 24th April At 17:35 OR `#0B49D6` 
+# <h6 style="color:blue;">/demo 6.4 9 </h6> : Plan the demo for 6th April at 9 am
 
 * The MM field is mandatory. The default value is 00
 * The start time of the meeting is HH:SS
