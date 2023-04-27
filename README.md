@@ -29,8 +29,9 @@ To use the automation process, you need to set up the following:
 4. Run those commands for the _requirement.txt_ `pip3 install --upgrade -r requirements.txt --target python/lib/python3.8/site-packages/` and `zip -r -9 dependencies.zip python`
 5. Add _dependencies.zip_ as a lambda layer
 6. Deploy the Lambda function to your AWS account.
-7. Add an _API Gateway_ as a trigger to your Lambda.
-8. Set up a Slash Command to trigger the Lambda function when wanted.
+7. Check the # TO DO
+8. Add an _API Gateway_ as a trigger to your Lambda.
+9. Set up a Slash Command to trigger the Lambda function when wanted.
 
 After setting up, you can run the automation process with the command: #0B49D6 /demo DD.MM HH:SS
 For Example : 
