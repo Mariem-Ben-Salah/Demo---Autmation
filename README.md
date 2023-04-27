@@ -1,4 +1,4 @@
-# :rocket: Demo-Autmation :rocket:
+# :rocket: Demo-Automation :rocket:
 This repository contains a Python implementation of an automation process to create Google Slides and Google Meet meetings for demos.
 
 ## 🤖 Introduction
