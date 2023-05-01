@@ -6,7 +6,7 @@ This repository contains a Python implementation of an automation process to cre
 [![Stars](https://img.shields.io/github/stars/Mariem-Ben-Salah/Demo-Automation.svg)](https://github.com/Mariem-Ben-Salah/Demo-Automation/stargazers)
 [![Forks](https://img.shields.io/github/forks/Mariem-Ben-Salah/Demo-Automation.svg)](https://github.com/Mariem-Ben-Salah/Demo-Automation/network/members)
 [![Issues](https://img.shields.io/github/issues/Mariem-Ben-Salah/Demo-Automation.svg)](https://github.com/Mariem-Ben-Salah/Demo-Automation/issues)
-![GitHub stars](https://img.shields.io/github/stars/Mariem-Ben-Salah/Demo-Automation?label=Stars&labelFontSize=40&messageFontSize=30)
+![GitHub stars](https://img.shields.io/github/stars/Mariem-Ben-Salah/Demo-Automation?label=Stars&labelFontSize=100&messageFontSize=100)
 
 
 ## 🤖 Introduction
