@@ -11,7 +11,7 @@ The demo is a process that typically occurs once a month. During this meeting, t
 - `lambda_function.py`: the main script that runs the automation process.
 - `library.py`: contains helper functions for the automation process.
 - `Template` : A folder containg all the _.template_ files required for the Google Slides creation.
-- `requirements.txt`: a file contating all the neccessary packages to upload to Lambda.
+- `requirements.txt`: a file contaning all the neccessary packages to upload to Lambda.
 - `README.me`: this file.
 
 ## 📝 Requirements
