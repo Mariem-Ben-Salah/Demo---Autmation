@@ -1,20 +1,15 @@
 # :rocket: Demo-Automation :rocket:
 This repository contains a Python implementation of an automation process to create Google Slides and Google Meet meetings for demos.
 
-![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
-<img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="120" height="40" />
+<img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="110" height="35" />
 
-[![Contributors](https://img.shields.io/github/contributors/Mariem-Ben-Salah/Demo-Automation.svg)](https://github.com/Mariem-Ben-Salah/Demo-Automation/graphs/contributors)
-<img src="https://img.shields.io/github/contributors/Mariem-Ben-Salah/Demo-Automation.svg" alt="Contributors" width="120" height="40" />
+[<img src="https://img.shields.io/github/contributors/Mariem-Ben-Salah/Demo-Automation.svg" alt="Contributors" width="110" height="35" />](https://github.com/Mariem-Ben-Salah/Demo-Automation/graphs/contributors)
 
-[![Stars](https://img.shields.io/github/stars/Mariem-Ben-Salah/Demo-Automation.svg)](https://github.com/Mariem-Ben-Salah/Demo-Automation/stargazers)
-<img src="https://img.shields.io/github/stars/Mariem-Ben-Salah/Demo-Automation.svg" alt="Stars" width="120" height="40" />
+[<img src="https://img.shields.io/github/stars/Mariem-Ben-Salah/Demo-Automation.svg" alt="Stars" width="110" height="35" />](https://github.com/Mariem-Ben-Salah/Demo-Automation/stargazers)
 
-[![Forks](https://img.shields.io/github/forks/Mariem-Ben-Salah/Demo-Automation.svg)](https://github.com/Mariem-Ben-Salah/Demo-Automation/network/members)
-<img src="https://img.shields.io/github/forks/Mariem-Ben-Salah/Demo-Automation.svg" alt="Forks" width="120" height="40" />
+[<img src="https://img.shields.io/github/forks/Mariem-Ben-Salah/Demo-Automation.svg" alt="Forks" width="110" height="35" />](https://github.com/Mariem-Ben-Salah/Demo-Automation/network/members)
 
-[![Issues](https://img.shields.io/github/issues/Mariem-Ben-Salah/Demo-Automation.svg)](https://github.com/Mariem-Ben-Salah/Demo-Automation/issues)
-<img src="https://img.shields.io/github/issues/Mariem-Ben-Salah/Demo-Automation.svg" alt="Issues" width="120" height="40" />
+[<img src="https://img.shields.io/github/issues/Mariem-Ben-Salah/Demo-Automation.svg" alt="Issues" width="110" height="35" />](https://github.com/Mariem-Ben-Salah/Demo-Automation/issues)
 
 
 
