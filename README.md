@@ -2,6 +2,7 @@
 This repository contains a Python implementation of an automation process to create Google Slides and Google Meet meetings for demos.
 
 ![Build Status](https://img.shields.io/travis/Mariem-Ben-Salah/Demo-Automation.svg)  ![Coverage Status](https://img.shields.io/coveralls/Mariem-Ben-Salah/Demo-Automation.svg)
+[![Build Status](https://travis-ci.com/Mariem-Ben-Salah/Demo-Automation.svg)](https://travis-ci.com/Mariem-Ben-Salah/Demo-Automation)
 
 
 ## 🤖 Introduction
