@@ -3,9 +3,10 @@ This repository contains a Python implementation of an automation process to cre
 
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
 [![Contributors](https://img.shields.io/github/contributors/Mariem-Ben-Salah/Demo-Automation.svg)](https://github.com/Mariem-Ben-Salah/Demo-Automation/graphs/contributors)
-[![Stars](https://img.shields.io/github/stars/Mariem-Ben-Salah/Demo-Automation?style=social&label=Stars&style=popout)](https://github.com/Mariem-Ben-Salah/Demo-Automation/stargazers)
+[![Stars](https://img.shields.io/github/stars/Mariem-Ben-Salah/Demo-Automation.svg)](https://github.com/Mariem-Ben-Salah/Demo-Automation/stargazers)
 [![Forks](https://img.shields.io/github/forks/Mariem-Ben-Salah/Demo-Automation.svg)](https://github.com/Mariem-Ben-Salah/Demo-Automation/network/members)
 [![Issues](https://img.shields.io/github/issues/Mariem-Ben-Salah/Demo-Automation.svg)](https://github.com/Mariem-Ben-Salah/Demo-Automation/issues)
+![GitHub stars](https://img.shields.io/github/stars/Mariem-Ben-Salah/Demo-Automation?style=social&label=Stars&logo=github&labelColor=333&color=007ec6&labelFontSize=20&messageFontSize=16)
 
 
 ## 🤖 Introduction
