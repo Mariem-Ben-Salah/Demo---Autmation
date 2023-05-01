@@ -1,7 +1,7 @@
+<img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="PYTHON" /> [<img src="https://img.shields.io/github/contributors/Mariem-Ben-Salah/Demo-Automation?style=for-the-badge" alt="CONTRIBUTORS" />](https://github.com/Mariem-Ben-Salah/Demo-Automation/graphs/contributors) [<img src="https://img.shields.io/github/stars/Mariem-Ben-Salah/Demo-Automation?style=for-the-badge" alt="STARS" />](https://github.com/Mariem-Ben-Salah/Demo-Automation/stargazers) [<img src="https://img.shields.io/github/forks/Mariem-Ben-Salah/Demo-Automation?style=for-the-badge" alt="FORKS" />](https://github.com/Mariem-Ben-Salah/Demo-Automation/network/members) [<img src="https://img.shields.io/github/issues/Mariem-Ben-Salah/Demo-Automation?style=for-the-badge" alt="ISSUES" />](https://github.com/Mariem-Ben-Salah/Demo-Automation/issues)
+
 # :rocket: Demo-Automation :rocket:
 This repository contains a Python implementation of an automation process to create Google Slides and Google Meet meetings for demos.
-
-<img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="PYTHON" /> [<img src="https://img.shields.io/github/contributors/Mariem-Ben-Salah/Demo-Automation?style=for-the-badge" alt="CONTRIBUTORS" />](https://github.com/Mariem-Ben-Salah/Demo-Automation/graphs/contributors) [<img src="https://img.shields.io/github/stars/Mariem-Ben-Salah/Demo-Automation?style=for-the-badge" alt="STARS" />](https://github.com/Mariem-Ben-Salah/Demo-Automation/stargazers) [<img src="https://img.shields.io/github/forks/Mariem-Ben-Salah/Demo-Automation?style=for-the-badge" alt="FORKS" />](https://github.com/Mariem-Ben-Salah/Demo-Automation/network/members) [<img src="https://img.shields.io/github/issues/Mariem-Ben-Salah/Demo-Automation?style=for-the-badge" alt="ISSUES" />](https://github.com/Mariem-Ben-Salah/Demo-Automation/issues)
 
 ## 🤖 Introduction
 
