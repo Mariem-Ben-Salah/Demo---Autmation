@@ -1,6 +1,8 @@
 # :rocket: Demo-Automation :rocket:
 This repository contains a Python implementation of an automation process to create Google Slides and Google Meet meetings for demos.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🤖 Introduction
 
 The demo is a process that typically occurs once a month. During this meeting, team members and product owners showcase what they've been working on during the previous period. Despite its simplicity, this process can sometimes take up a significant amount of time on the agenda, which is why we have decided to automate it.
