@@ -39,9 +39,9 @@ To use the automation process, you need to set up the following:
 12. Add the bot to the wanted channels
 13. Set up a Slash Command to trigger the Lambda function when wanted.
 
-After setting up, you can run the automation process with the command: <span style="color:red">/demo DD.MM HH:SS</span>
+After setting up, you can run the automation process with the command: <span style="color:red">/demo DD.MM HH:mm</span>
 
-* The MM field is mandatory. The default value is 00
+* The mm field is mandatory. The default value is 00
 * The start time of the meeting is HH:SS
 * The end time of the meeting is start time + 1h30  
 
